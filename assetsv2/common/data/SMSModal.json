@@ -1,0 +1,26 @@
+{
+  "isValidCity": true,
+  "deliveryAddress": {
+    "identifier": 1765615,
+    "createdDate": "2019-05-06T07:36:34.979+0000",
+    "lastModifiedDate": "2019-05-06T07:36:35.136+0000",
+    "customerId": 47702792,
+    "title": "exptitle",
+    "deliveryName": "test_isim",
+    "deliverySurname": "test_soyisim",
+    "billName": "test_isim",
+    "billSurname": "test_soyisim",
+    "postalCode": "34180",
+    "deliveryContactPhone": "5327303252",
+    "preferredAddress": true,
+    "cityId": 34,
+    "cityName": "İstanbul",
+    "districtId": 0,
+    "districtName": "Uskudar",
+    "active": true,
+    "links": []
+  },
+  "shippingMethod": "SingleHub Peşin",
+  "deliveryType": null,
+  "isSuccess": true
+}

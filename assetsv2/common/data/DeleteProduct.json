@@ -1,0 +1,11 @@
+{
+  "basketSummary": { 
+    "productTotal": "20.123,00",
+    "basketTotal": "20.123,00",
+    "shipping": "Ucretsiz",
+    "discountPrice": "110.00",
+    "productAmount": "6"
+  },
+  "isSuccess": true,
+  "message": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+}

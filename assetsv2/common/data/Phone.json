@@ -1,0 +1,10 @@
+{
+  "id": "01",
+  "text": "iPhone",
+  "child": [
+    { "id": 22694, "text": "7" },
+    { "id": 22695, "text": "Galaxy S8+" },
+    { "id": 22241, "text": "X" },
+    { "id": 22696, "text": "Xs" }
+  ]
+}

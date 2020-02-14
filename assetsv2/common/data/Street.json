@@ -1,0 +1,15 @@
+{
+  "id": 2225,
+  "text": "ANDİFLİ MAHALLESİ",
+  "child": [
+    { "id": "2221", "text": "AĞULLU Caddesi" },
+    { "id": "2222", "text": "AHATLI Caddesi" },
+    { "id": "2223", "text": "AKLAR Caddesi" },
+    { "id": "2224", "text": "AKÖRÜ Caddesi" },
+    { "id": "2225", "text": "ANDİFLİ Caddesi" },
+    { "id": "2226", "text": "BAYINDIR Caddesi" },
+    { "id": "2227", "text": "BELDİBİ Caddesi" },
+    { "id": "2228", "text": "BELENLİ Caddesi" },
+    { "id": "2229", "text": "BELKONAK Caddesi" }
+  ]
+}

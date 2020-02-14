@@ -1,0 +1,61 @@
+{
+  "totalCommentCount": "12",
+  "comments": [
+  {
+    "id": "1",
+    "mostPopular": true,
+    "title": "Tam bir fiyat performans ürünü.",
+    "generalRating": "4.3",
+    "author": "Ezgi Ç.",
+    "date": "27 Ekim 2018",
+    "confirmedPurchase": "Onaylanmış Alım",
+    "text": "4 gün önce turkcell.com.tr üzerinden siyah rengini aldım. Müthiş bir telefon. Ekran çok canlı, POLED ekranı görüntüleri gerçek ve canlı renkleri ile beraber sunuyor. 537 PPI ile güneşli günlerde açık havada dahi çok berrak ve net görüntü veriyor.",
+    "likeServiceUrl": "../../../assetsv2/common/data/LikeService.json",
+    "like": "50",
+    "dislike": "12",
+    "ratings": [
+      {"title": "Ekran Ve Görüntü", "rate": 4.1},
+      {"title": "Kamera ve Video", "rate": 3.3},
+      {"title": "Pil ve Güç Yönetimi", "rate": 2},
+      {"title": "Boyut ve Ağırlık", "rate": 4.8},
+      {"title": "İşletim Sistemi ve Hafıza", "rate": 3.1}
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Yeni content 2",
+    "generalRating": "3.3",
+    "author": "Ezgi Ç.",
+    "date": "28 Ekim 2018",
+    "confirmedPurchase": false,
+    "text": "4 gün önce turkcell.com.tr üzerinden siyah rengini aldım. Müthiş bir telefon. Ekran çok canlı, POLED ekranı görüntüleri gerçek ve canlı renkleri ile beraber sunuyor. 537 PPI ile güneşli günlerde açık havada dahi çok berrak ve net görüntü veriyor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.",
+    "likeServiceUrl": "../../../assetsv2/common/data/LikeService.json",
+    "like": "50",
+    "dislike": "12",
+    "ratings": [
+      {"title": "Ekran Ve Görüntü", "rate": 4.1},
+      {"title": "Kamera ve Video", "rate": 3.3},
+      {"title": "Pil ve Güç Yönetimi", "rate": 2},
+      {"title": "Boyut ve Ağırlık", "rate": 4.8},
+      {"title": "İşletim Sistemi ve Hafıza", "rate": 3.1}
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Yeni content 3",
+    "generalRating": "2.7",
+    "author": "Ezgi Ç.",
+    "date": "29 Ekim 2018",
+    "confirmedPurchase": false,
+    "text": "4 gün önce turkcell.com.tr üzerinden siyah rengini aldım. Müthiş bir telefon. Ekran çok canlı, POLED ekranı görüntüleri gerçek ve canlı renkleri ile beraber sunuyor. 537 PPI ile güneşli günlerde açık havada dahi çok berrak ve net görüntü veriyor.",
+    "likeServiceUrl": "../../../assetsv2/common/data/LikeService.json",
+    "like": "50",
+    "dislike": "12",
+    "ratings": [
+      {"title": "Ekran Ve Görüntü", "rate": 4.1},
+      {"title": "Kamera ve Video", "rate": 3.3},
+      {"title": "İşletim Sistemi ve Hafıza", "rate": 3.1}
+    ]
+  }
+]
+}

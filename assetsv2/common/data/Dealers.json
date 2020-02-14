@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Turkcell Genel Müdürlük",
+    "latitude": "40.955058",
+    "longitude": "29.117586",
+    "address": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel velit vehicula leo imperdiet rutrum."
+  },
+  {
+    "title": "Central Hospital",
+    "latitude": "40.965003",
+    "longitude": "29.132882",
+    "address": "Lorem ipsum dolor sit amet"
+  },
+  {
+    "title": "Turkcell Genel Müdürlük",
+    "latitude": "40.945058",
+    "longitude": "29.117586",
+    "address": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel velit vehicula leo imperdiet rutrum."
+  },
+  {
+    "title": "Central Hospital",
+    "latitude": "40.965003",
+    "longitude": "29.132882",
+    "address": "Lorem ipsum dolor sit amet"
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "status": true,
+  "bankLogo": "../../../assetsv2/common/images/dummy/yapi-kredi-logo.png",
+  "cardType": "../../../assetsv2/common/images/dummy/master.png",
+  "installments": [
+    {
+      "checked": true,
+      "id": "installment-input-id-01",
+      "installmentRate": "Tek Çekim",
+      "installmentPrice": "2.233,90 TL",
+      "totalPrice": "2.233,90 TL",
+      "name": "installmentOptionsName",
+      "value": "defaultValue1"
+    },
+    {
+      "id": "installment-input-id-02",
+      "installmentRate": "3 Taksit",
+      "installmentPrice": "733,90 TL",
+      "totalPrice": "733,90 TL",
+      "name": "installmentOptionsName",
+      "value": "defaultValue2"
+    },
+    {
+      "id": "installment-input-id-03",
+      "installmentRate": "6 Taksit",
+      "installmentPrice": "733,90 TL",
+      "totalPrice": "733,90 TL",
+      "name": "installmentOptionsName",
+      "value": "defaultValue3"
+    }
+  ]
+}

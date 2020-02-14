@@ -1,0 +1,17 @@
+[
+  {
+    "action": "showErrorMessage",
+    "message": "Mevcutta siparişini verdiğiniz bir Süperbox ürününüz bulunmaktadır!",
+    "redirectUrl": null
+  },
+  {
+    "action": "showOTP",
+    "message": null,
+    "redirectUrl": null
+  },
+  {
+    "action": "redirectPage",
+    "message": null,
+    "redirectUrl": "/tr/ev-cozumleri/superbox-basvuru/siparis-bilgi"
+  }
+]

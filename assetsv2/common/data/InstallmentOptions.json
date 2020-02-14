@@ -1,0 +1,29 @@
+{
+  "installments": [
+    {
+      "checked": true,
+      "id": "installment-input-id-01",
+      "installmentRate": "Tek Çekim",
+      "installmentPrice": "2.233,90 TL",
+      "totalPrice": "2.233,90 TL",
+      "name": "instlalmentOptionsName",
+      "value": "defaultValue1"
+    },
+    {
+      "id": "installment-input-id-02",
+      "installmentRate": "3 Taksit",
+      "installmentPrice": "733,90 TL",
+      "totalPrice": "733,90 TL",
+      "name": "instlalmentOptionsName",
+      "value": "defaultValue2"
+    },
+    {
+      "id": "installment-input-id-03",
+      "installmentRate": "6 Taksit",
+      "installmentPrice": "733,90 TL",
+      "totalPrice": "733,90 TL",
+      "name": "instlalmentOptionsName",
+      "value": "defaultValue3"
+    }
+  ]
+}

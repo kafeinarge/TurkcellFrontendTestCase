@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "mainCategory": "Önerilen sonuç örneği",
+    "subCategory": "Lorem ipsum",
+    "title": "Önerilen sonuç kampanyası lorem ipsum dolor sit",
+    "url": "https://www.turkcell.com.tr/",
+    "recommended": true
+  },
+  {
+    "id": 1,
+    "mainCategory": "Hesabım",
+    "subCategory": "Lorem ipsum",
+    "title": "Kampanyalarım",
+    "url": "https://www.turkcell.com.tr/hesabim/kampanyalarim?place=autocomplete&qt=kamp"
+  },
+  {
+    "id": 2,
+    "mainCategory": "Kampanyalar",
+    "subCategory": "Servisler",
+    "title": "fizy Premium Kampanyalı Üyelik",
+    "url": "https://www.turkcell.com.tr/kampanyalar/servisler/fizy-premium-kampanyali-uyelik?place=autocomplete&qt=kamp"
+  },
+  {
+    "id": 3,
+    "mainCategory": "Kampanyalar",
+    "subCategory": "Diğer Kampanyalarımız",
+    "title": "Upcall Paris Kampanyası",
+    "url": "https://www.turkcell.com.tr/kampanyalar/diger-kampanyalarimiz/upcall-paris-kampanyasi?place=autocomplete&qt=kamp"
+  }
+]

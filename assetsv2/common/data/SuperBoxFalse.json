@@ -1,0 +1,6 @@
+{ 
+  "isSuccess": "false",
+  "action": "showErrorMessage",
+  "message": "Adress sorgulama sırasında bir hata oluştu! Lütfen daha sonra tekrar deneyiniz."
+
+}

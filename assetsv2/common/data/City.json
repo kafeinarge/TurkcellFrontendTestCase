@@ -1,0 +1,26 @@
+{
+  "id": 7,
+  "text": "Antalya",
+  "child": [
+    { "id": "9701", "text": "Akseki" },
+    { "id": "9716", "text": "Aksu" },
+    { "id": "9702", "text": "Alanya" },
+    { "id": "9708", "text": "Demre" },
+    { "id": "9717", "text": "Döşemealtı" },
+    { "id": "9703", "text": "Elmalı" },
+    { "id": "9704", "text": "Finike" },
+    { "id": "9705", "text": "Gazipaşa" },
+    { "id": "9706", "text": "Gündoğmuş" },
+    { "id": "9707", "text": "İbradı" },
+    { "id": "9709", "text": "Kaş" },
+    { "id": "9710", "text": "Kemer" },
+    { "id": "9718", "text": "Kepez" },
+    { "id": "9719", "text": "Konyaaltı" },
+    { "id": "9711", "text": "Korkuteli" },
+    { "id": "9712", "text": "Kumluca" },
+    { "id": "9713", "text": "Manavgat" },
+    { "id": "9714", "text": "Merkez" },
+    { "id": "9720", "text": "Muratpasa" },
+    { "id": "9715", "text": "Serik" }
+  ]
+}

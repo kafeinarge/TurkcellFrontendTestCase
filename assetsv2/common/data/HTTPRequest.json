@@ -1,0 +1,8 @@
+{
+  "type": "modal",
+  "modalID": "modal-netflix-membership",
+  "data": {
+    "btnText": "Dinamil button text",
+    "dynamicText": "Bu açıklama metni servis tarafından gelen response ile oluşturulmaktadır."
+  }
+}

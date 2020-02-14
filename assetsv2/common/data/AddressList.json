@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "text": "Turkcell11 Küçükyalı Plaza, Aydınevler Mahallesi İnönü Caddesi No:20 Küçükyalı Ofispark B",
+    "city": "Besiktas / Istanbul"
+  },
+  {
+    "id": "2",
+    "text": "Turkcell22 Küçükyalı Plaza, Aydınevler Mahallesi İnönü Caddesi No:20 Küçükyalı Ofispark B",
+    "city": "Maltepe / Istanbul",
+    "isSelected": true
+  },
+  {
+    "id": "3",
+    "text": "Turkcell33 Küçükyalı Plaza, Aydınevler Mahallesi İnönü Caddesi No:20 Küçükyalı Ofispark B",
+    "city": "Besiktas / Istanbul"
+  },
+  {
+    "id": "4",
+    "text": "Turkcell44 Küçükyalı Plaza, Aydınevler Mahallesi İnönü Caddesi No:20 Küçükyalı Ofispark B",
+    "city": "Maltepe / Istanbul"
+  }
+]

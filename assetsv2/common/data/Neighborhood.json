@@ -1,0 +1,15 @@
+{
+  "id": 9709,
+  "text": "Kas",
+  "child": [
+    { "id": "1111", "text": "AĞULLU MAHALLESİ" },
+    { "id": "1112", "text": "AHATLI MAHALLESİ" },
+    { "id": "1113", "text": "AKLAR MAHALLESİ" },
+    { "id": "1114", "text": "AKÖRÜ MAHALLESİ" },
+    { "id": "1115", "text": "ANDİFLİ MAHALLESİ" },
+    { "id": "1116", "text": "BAYINDIR MAHALLESİ" },
+    { "id": "1117", "text": "BELDİBİ MAHALLESİ" },
+    { "id": "1118", "text": "BELENLİ MAHALLESİ" },
+    { "id": "1119", "text": "BELKONAK MAHALLESİ" }
+  ]
+}

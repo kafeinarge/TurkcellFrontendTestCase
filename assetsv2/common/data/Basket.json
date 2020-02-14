@@ -1,0 +1,16 @@
+{
+  "product" : {
+    "total": "1.765,99",
+    "maxStock": "15"
+  },
+  "basketSummary": { 
+    "productTotal": "23.123,00",
+    "basketTotal": "23.123,00",
+    "shipping": "ÜCRETSİZ",
+    "discountPrice": "110.00",
+    "productAmount": "6",
+    "devicePurchase": "23.123,00",
+    "packagePrice": "23.323,00"
+  },
+  "redirect" : "http://localhost/turkcell.com.tr/web/desktop/pages/Basket/Basket.html"
+}

@@ -1,0 +1,63 @@
+{
+  "status": true,
+  "city": "İstanbul / Beşiktaş",
+  "count": "8",
+  "store": [
+    {
+      "id": 1,
+      "title": "Beşiktaş Ihlamurdere Mağazası",
+      "address": "Barbaros Cad. Yasemin apt. no:24 34357 Beşiktaş/İstanbul",
+      "latitude": "40.955058",
+      "longitude": "29.117586"
+    },
+    {
+      "id": 2,
+      "title": "Barbaros Caddesi Mağazası",
+      "address": "Barbaros Cad. Yasemin apt. no:24 34357 Beşiktaş/İstanbul",
+      "latitude": "40.965003",
+      "longitude": "29.132882"
+    },
+    {
+      "id": 3,
+      "title": "asdasdağazası",
+      "address": "Barbaros Cad. Yasemin apt. no:24 34357 Beşiktaş/İstanbul",
+      "latitude": "40.945058",
+      "longitude": "29.117586"
+    },
+    {
+      "id": 4,
+      "title": "Beasdasdzası",
+      "address": "Barbaros Cad. Yasemin apt. no:24 34357 Beşiktaş/İstanbul",
+      "latitude": "40.965003",
+      "longitude": "29.132882"
+    },
+    {
+      "id": 5,
+      "title": "Beşikta4545sı",
+      "address": "Barbaros Cad. Yasemin apt. no:24 34357 Beşiktaş/İstanbul",
+      "latitude": "40.964003",
+      "longitude": "29.132882"
+    },
+    {
+      "id": 6,
+      "title": "Beşi234 Mağazası",
+      "address": "Barbaros Cad. Yasemin apt. no:24 34357 Beşiktaş/İstanbul",
+      "latitude": "40.965003",
+      "longitude": "29.142882"
+    },
+    {
+      "id": 7,
+      "title": "Beşiktaş Ihlamurdere Mağazası",
+      "address": "Barbaros Cad. Yasemin apt. no:24 34357 Beşiktaş/İstanbul",
+      "latitude": "40.935003",
+      "longitude": "29.132882"
+    },
+    {
+      "id": 8,
+      "title": "Beşiktaş Ihlamurdere Mağazası",
+      "address": "Barbaros Cad. Yasemin apt. no:24 34357 Beşiktaş/İstanbul",
+      "latitude": "40.969003",
+      "longitude": "29.133882"
+    }
+  ]
+}

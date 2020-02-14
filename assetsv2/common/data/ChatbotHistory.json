@@ -1,0 +1,26 @@
+[
+  {
+    "type": "client",
+    "outputText": "Lorem ipsum message 0"
+  },
+  {
+    "type": "bot",
+    "outputText": "Lorem ipsum message 1"
+  },
+  {
+    "type": "client",
+    "outputText": "Lorem ipsum message 2"
+  },
+  {
+    "type": "bot",
+    "outputText": "Lorem ipsum message 3"
+  },
+  {
+    "type": "client",
+    "outputText": "Lorem ipsum message 4"
+  },
+  {
+    "type": "bot",
+    "outputText": "Lorem ipsum message 5"
+  }
+]
