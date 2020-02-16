@@ -29618,16 +29618,19 @@ section.tabs {
   display: flex;
     flex-direction: column;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 400;
     font-stretch: normal;
     font-style: normal;
-    line-height: 1.57;
     letter-spacing: normal;
     color: #253342;
     position: relative;
-    width: 250px;
-    top: 10px;
+    width: 270px;
+    top: 1px;
     left: 4%;
+}
+
+.summary p {
+  margin: 4px;
 }
 
 .adv-img {
