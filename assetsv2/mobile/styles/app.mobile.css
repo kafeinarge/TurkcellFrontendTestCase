@@ -29364,10 +29364,9 @@ html.in-app .o-header-mobile > .container {
 
   /* CUSTOM */
 
-  .m-r-10 {
-    margin-right: 10%;
+  .m-r-16 {
+    margin-right: 16%;
 }
-
 
 .m-t-5 {
     margin-top: 5%;
@@ -29387,7 +29386,9 @@ flex: 1 25px;
     justify-content: flex-end;
     color: #5f6b76;
     position: relative;
-    left: 10px;
+    left: 13px;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 .filter-title {
@@ -29481,7 +29482,7 @@ flex: 1 25px;
 }
 
 hr {
-  border: 1px solid #ecf0f2;
+  border: 0.5px solid #ecf0f2;
   margin: 0;
 }
 
@@ -29491,7 +29492,7 @@ hr {
     position: relative;
     align-items: flex-end;
     padding: 11px;
-    top: -14px;
+    top: -8px;
     margin-bottom: -40px !important;
 }
 
@@ -29549,6 +29550,11 @@ section.tabs {
   margin-bottom: 20px;
 }
 
+.tabs p {
+  padding: 22px;
+  font-size: 14px;
+}
+
 .tabs-title {
   margin: 0;
   font-size: 20px;
@@ -29575,7 +29581,7 @@ section.tabs {
 }
 
 .billing-title {
-  font-size: 24px;
+  font-size: 26px;
   font-weight: bold;
   font-stretch: normal;
   font-style: normal;
@@ -29706,6 +29712,10 @@ section.tabs {
     font-size: 12px;
     left: 7%;
     bottom: 6px;
+}
+
+.billign-blok {
+  margin-bottom: 1.75rem;
 }
 
 
